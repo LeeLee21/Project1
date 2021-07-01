@@ -127,6 +127,7 @@ a {
     line-height: 22px;
     margin-bottom: 20px;
     color: #777777;
+    list-style-type: square;
 }
 .imgs {
     width: 757px;
